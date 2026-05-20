@@ -1,7 +1,7 @@
 import os
 import requests
 
-DISCORD_WEBHOOK = os.environ["DISCORDWEBOOK"]
+DISCORD_WEBHOOK = os.environ["DISCORD_WEBHOOK"]
 
 URLS = [
     "https://www.paniniportugal.com/shp_prt_pt/cromos-e-cards/desporto/fifa.html"
