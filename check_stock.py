@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 DISCORD_WEBHOOK = os.environ["DISCORD_WEBHOOK"]
 
 PRODUCTS = {
-    "Caderneta": "https://www.paniniportugal.com/shp_prt_pt/fifa-world-cup-2026-official-sticker-collection-caderneta-cole-o-oficial-panini-005460aptw-es01.html",
+    "Cadernetaa": "https://www.paniniportugal.com/shp_prt_pt/fifa-world-cup-2026-official-sticker-collection-caderneta-cole-o-oficial-panini-005460aptw-es01.html",
 
     "Caixa 50 Saquetas": "https://www.paniniportugal.com/shp_prt_pt/fifa-world-cup-2026-official-sticker-collection-caixa-de-50-saquetas-cole-o-oficial-panini-005460box50ew-es01.html",
 
