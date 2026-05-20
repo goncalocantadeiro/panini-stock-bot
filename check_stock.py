@@ -1,7 +1,7 @@
 import os
 import requests
 
-DISCORD_WEBHOOK = os.environ["https://discord.com/api/webhooks/1506584948604407919/JZGgvHUQXbPYA4tZnDdxYpgQFDKuMeQYFr6NRbL-6D3fMg6J22s0PexBlYni3jhLFU_n"]
+DISCORD_WEBHOOK = os.environ["DISCORD_WEBHOOK"]
 
 URLS = [
     "https://www.paniniportugal.com/shp_prt_pt/cromos-e-cards/desporto/fifa.html"
